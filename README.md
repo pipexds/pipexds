@@ -86,4 +86,3 @@ Actualmente me encuentro realizando mi trabajo de título, el cual tiene enfoque
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-herrera-robles-1120ab2a2/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierfelipehr@gmail.com)
 
-⚡ **Disponibilidad:** Full Time
