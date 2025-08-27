@@ -58,7 +58,7 @@ de imputación avanzadas, como lo son: **MICE, LSTM, Prophet, Modelos de jerarqu
 ### 💻 Desarrollo Web y Visualización
 - **Mapa interactivo de rutas**  
   HTML/JS con Leaflet para simular rutas de transporte y mostrar información dinámica.  
-  ![Mapa GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9pdTBxdWRlc2ptaWFoMWE1OTRvaXllN3E3em9wYXhhdXpsNGxjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IiZ0oRKhKgLWbf7V6D/giphy.gif)
+  ![Mapa GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ6emEzem1yemV2cnJ0MHF0emc3M2xxZnIwaDIwZDNpdnVydTlwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ED4Nf8bHRo64/giphy.gif)
 
 ### 📊 Análisis de Datos y Machine Learning
 - **Imputación de datos meteorológicos**  
