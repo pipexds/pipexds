@@ -1,7 +1,8 @@
 # 👋 ¡Hola! Soy Javier Felipe Herrera Robles
 
 Ingeniero en Computación e Informática (egresado, Univ. Arturo Prat) con experiencia en **desarrollo de software, programación, desarrollo web y análisis de datos**.  
-Apasionado por crear soluciones prácticas, optimizar procesos y visualizar información de manera clara.
+Apasionado por crear soluciones prácticas, mejorar procesos y visualizar información de manera clara.
+Actualmente me encuentro realizando mi trabajo de título, el cual tiene enfoque al analisis de datos. En especifico imputación de datos a series temporales incompletas, mediante técni
 
 📍 Iquique, Chile  
 ✉️ [javierfelipehr@gmail.com](mailto:javierfelipehr@gmail.com)  
