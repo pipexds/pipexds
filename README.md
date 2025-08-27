@@ -71,7 +71,7 @@ Apasionado por crear soluciones prácticas, optimizar procesos y visualizar info
 ---
 
 ## 📈 GitHub Stats
-![Javier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
+![Javier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pipexds&show_icons=true&theme=radical)
 
 ---
 
