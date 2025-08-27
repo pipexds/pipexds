@@ -1,5 +1,5 @@
 # 👋 ¡Hola Mundo! Soy Javier Felipe Herrera Robles
-![Hello GIF](https://giphy.com/gifs/perfect-loops-lcs5BL0NIM4WMv61a9)
+![Hello GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRxZTliYjR4cDR1NW44N3prYW8wdmZkZ3l5amwxaG11cWFveXM3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)
 
 Ingeniero en Computación e Informática (egresado, Univ. Arturo Prat) con experiencia en **desarrollo de software, programación, desarrollo web y análisis de datos**.  
 Apasionado por crear soluciones prácticas, mejorar procesos y visualizar información de manera clara.
