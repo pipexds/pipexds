@@ -2,7 +2,8 @@
 
 Ingeniero en Computación e Informática (egresado, Univ. Arturo Prat) con experiencia en **desarrollo de software, programación, desarrollo web y análisis de datos**.  
 Apasionado por crear soluciones prácticas, mejorar procesos y visualizar información de manera clara.
-Actualmente me encuentro realizando mi trabajo de título, el cual tiene enfoque al analisis de datos. En especifico imputación de datos a series temporales incompletas, mediante técni
+Actualmente me encuentro realizando mi trabajo de título, el cual tiene enfoque al analisis de datos. En especifico imputación de datos a series temporales incompletas, mediante técnicas 
+de imputación avanzadas, como lo son: MICE, LSTM, Prophet, Modelos de jerarquía Bayesiana y Expectation-Minimization(EM)
 
 📍 Iquique, Chile  
 ✉️ [javierfelipehr@gmail.com](mailto:javierfelipehr@gmail.com)  
