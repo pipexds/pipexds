@@ -1,10 +1,12 @@
 # 👋 ¡Hola Mundo! Soy Javier Felipe Herrera Robles
-![Hello GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRxZTliYjR4cDR1NW44N3prYW8wdmZkZ3l5amwxaG11cWFveXM3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)
+
 
 Ingeniero en Computación e Informática (egresado, Univ. Arturo Prat) con experiencia en **desarrollo de software, programación, desarrollo web y análisis de datos**.  
 Apasionado por crear soluciones prácticas, mejorar procesos y visualizar información de manera clara.
 Actualmente me encuentro realizando mi trabajo de título, el cual tiene enfoque al analisis de datos. En especifico imputación de datos a series temporales incompletas, mediante técnicas 
 de imputación avanzadas, como lo son: **MICE, LSTM, Prophet, Modelos de jerarquía Bayesiana y Expectation-Minimization(EM)**
+
+![Hello GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRxZTliYjR4cDR1NW44N3prYW8wdmZkZ3l5amwxaG11cWFveXM3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)
 
 📍 Iquique, Chile  
 ✉️ [javierfelipehr@gmail.com](mailto:javierfelipehr@gmail.com)  
