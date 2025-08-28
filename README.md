@@ -28,7 +28,7 @@ de imputación avanzadas, como lo son: **MICE, LSTM, Prophet, Modelos de jerarqu
 ### Bases de Datos
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/logo=java&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Análisis de Datos y ETL
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
