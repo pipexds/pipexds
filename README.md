@@ -69,7 +69,6 @@ de imputación avanzadas, como lo son: **MICE, LSTM, Prophet, Modelos de jerarqu
 ### 📊 Análisis de Datos y Machine Learning
 - **Imputación de datos meteorológicos**  
   Métodos MICE, Prophet, RNN y LSTM para completar series temporales usando múltiples fuentes de datos.  
-  ![Datos GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 - **Dashboards interactivos y OLAP**  
   Creación de dashboards en Power BI y Tableau con análisis dinámico de grandes volúmenes de datos.
@@ -77,7 +76,6 @@ de imputación avanzadas, como lo son: **MICE, LSTM, Prophet, Modelos de jerarqu
 ### 🚛 Simulación y Automatización
 - **Simulación de tráfico en Unity**  
   Control de vehículos, colas en peajes y rutas dinámicas con visualización en tiempo real de métricas y estadísticas.  
-  ![Simulación GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
