@@ -46,7 +46,7 @@ de imputación avanzadas, como lo son: **MICE, LSTM, Prophet, Modelos de jerarqu
 
 ---
 
-## 💼 Experiencia Relevante en TI
+## 💼 Experiencia en TI
 
 - **Practicante — Proyecto FIC Corredor Bioceánico**  
   Desarrollo de simulaciones en Unity y visualización web con JavaScript; optimización de rutas y análisis de datos de transporte.
